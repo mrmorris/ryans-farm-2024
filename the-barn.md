@@ -2,3 +2,4 @@
 
 * [The Cat](./cat.md)
 * [The Cow](./cow.md)
+* [The Wild Buffalo](./buffalo.md)
