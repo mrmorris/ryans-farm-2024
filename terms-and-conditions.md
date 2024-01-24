@@ -4,6 +4,6 @@
 
 * No guns
 * No humans
-* Party all the time
+* Party most of the time
 
 Since 2024
