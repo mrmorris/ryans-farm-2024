@@ -1,5 +1,7 @@
 # A dinosaur creature
 
+----
+
                            <\              _
                             \\          _/{
                      _       \\       _-   -_
